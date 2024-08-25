@@ -1,0 +1,7 @@
+torch
+transformers
+whisper
+gradio
+gtts
+Pillow
+numpy
